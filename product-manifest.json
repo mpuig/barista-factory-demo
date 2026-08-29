@@ -1,0 +1,1 @@
+{"bindings":{"state":{"kind":"sqlite-state","path":"/data","writable":true}},"name":"deployment-board","runtime":{"containers":1,"port":8080},"schema_version":"v1alpha1"}
